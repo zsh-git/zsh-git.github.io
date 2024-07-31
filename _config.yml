@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "China"
-title                    : "Shihong Zhang"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Shihong Zhang"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Shihong Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "The meaning of life is to challenge ourselves"
   location         : "China"
   employer         : "Nanjing University"
   uri              : # URL

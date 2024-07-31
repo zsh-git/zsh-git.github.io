@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Shihong Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "China"
+  employer         : "Nanjing University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhangshihong1995@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
